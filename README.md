@@ -2,4 +2,7 @@
 
 This repo consists of all the files related to IITM's Online Degree Program's BDM Capstone Project
 
->#### Also do read the `remarks.md` file that resides in each folder as it contains the remarks received from the course TAs/assessment team.
+> ### $${\color{red}Also \space do \space read \space the \space remarks.md \space file \space that \space resides \space in \space each \space folder \space as \space it \space contains \space the \space remarks \space received \space from \space the \space course \space TAs/assessment \space team}$$
+
+
+
